@@ -1,5 +1,5 @@
+# Welcome to the ALOHEP Readme!!
 
-# Welcome to the ALOHEP wiki!
 ## Alohep userguide (English)
 English: The AloHEP software, developed using the Java programming language, is composed of the "save" folder where accelerator-related save files are stored and the executable "AloHEP.jar" file that contains the software codes. In the save file, accelerators are classified and distributed into subfolders according to the particle type used. If a subfolder for the same particle-containing accelerators is desired, a "-" can be added after the particle name and desired naming can be done. JSON files belonging to each accelerator are located in the particle subfolders. These JSON files contain accelerator-related parameters and can be edited using text editors. The record file also includes the "settings.JSON" file containing the simulation parameters. These simulation parameters can be edited both in this file and through the AloHEP interface. The AloHEP.jar file must be located in the same folder as the record file to be able to run. When the "AloHEP.jar" is run, the main panel of the AloHEP software opens (Figure 1).
 
