@@ -6,10 +6,10 @@ Requirement: JRE(Java Runtime Enviroment) 7 or higher
 First you will go to releases 
 ![image](https://user-images.githubusercontent.com/102833131/213984651-2e7cebfe-6096-4ab6-8279-ef8a54ebb867.png)
 
-secondly you will download AloHEP.zip
+Secondly you will download AloHEP.zip
 ![image](https://user-images.githubusercontent.com/102833131/213984943-bd7073f3-b6ee-4447-8359-cc647c620bc0.png)
 
-thirdly you will exract zip 
+Thirdly you will extract zip 
 
 Finally you will select Alohep.jar
 ![image](https://user-images.githubusercontent.com/102833131/213985244-7959dedf-10cb-4f92-9b35-7ac6f5c3d00d.png)
